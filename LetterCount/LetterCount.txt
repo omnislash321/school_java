@@ -1,0 +1,29 @@
+Xu, Roberto - CS141 Homework #4
+Enter the file name: LetterCount.txt
+
+a: 4
+b: 2
+c: 3
+d: 1
+e: 10
+f: 2
+g: 1
+h: 3
+i: 2
+j: 2
+k: 2
+l: 3
+m: 3
+n: 4
+o: 6
+p: 1
+q: 1
+r: 6
+s: 2
+t: 7
+u: 3
+v: 2
+w: 2
+x: 2
+y: 1
+z: 1

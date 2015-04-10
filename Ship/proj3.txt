@@ -1,0 +1,15 @@
+North_American_Shipping_Inc.
+13
+c Disney_Dream 2010 4000
+c Disney_Fantasy 2012 4000
+C America_Challenger 1962 11200
+c Disney_Magic 1998 2400
+c Disney_Wonder 1999 2400
+C SS_John_W._Brown 1942 10920
+C Colombo_Express 2005 93750
+C MSC_Fabiola 2010 140259
+c Carnival_Imaginx 2007 2634
+c Carnival_Destiny 2008 2642
+c Oasis_of_the_Seas 2009 2394
+c Pacific_Dawn 1991 2052
+C No_go 1900 0
